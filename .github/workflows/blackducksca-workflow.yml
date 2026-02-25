@@ -40,3 +40,4 @@ jobs:
           blackducksca_prComment_enabled: true
           ### FIX PULL REQUEST CREATION
           blackducksca_fixpr_enabled: true
+          blackducksca_policy_badges_create: true
